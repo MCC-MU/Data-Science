@@ -6,7 +6,7 @@ Each week gives you a short list of topics, the resources to use, and one task t
 
 Built and maintained by [Basel Hamdy](https://github.com/BaselHamdy1).
 
-## Who This Is For
+## Who This Is For ?
 
 - Students who want a clear order to learn data science.
 - Self-learners who prefer free resources (videos, courses, articles).
