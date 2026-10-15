@@ -54,8 +54,8 @@ Each week has a **Base resource** and sometimes an **Alternative**. Use one of t
 
 | File | Content |
 | --- | --- |
-| `README.md` | Overview and status (this file) |
-| `ROADMAP.md` | Full week-by-week tables with topics, resources, and tasks |
+| README.md | Overview and status (this file) |
+| [ROADMAP.md](./ROADMAP.md) | Full week-by-week tables with topics, resources, and tasks |
 
 ## Tips
 
